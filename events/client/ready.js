@@ -39,7 +39,7 @@ client.on("ready", async () => {
   );
   console.log(
     chalk.white(` `) +
-      chalk.red(`Join - dsc.gg/codexdev`)
+      chalk.red(`Join - .gg/vanir`)
   );
   console.log("");
   console.log(chalk.red.bold("——————————[Statistics]——————————"));

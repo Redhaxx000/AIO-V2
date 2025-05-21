@@ -1,15 +1,15 @@
 {
-    "clienttoken": "",
+    "clienttoken": "MTM3NDYxMzc4NjU2Mzk2OTA4NQ.GuVjpk.frJxN8ZLTVkp2qskK9HbHQLiF-u4FGL0XGkOv8",
     "Note_Token:": "Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
-    "clientname": "All in one latest",
-    "clientid": "1168170696493510826",
-    "TestingServerID": "1090992049727229972",
+    "clientname": ".gg/vanir",
+    "clientid": "1374613786563969085",
+    "TestingServerID": "1352670524395880549",
     "clientavatar": "",
-    "prefix": "..",
+    "prefix": ".",
     "developerID": [
         "870179991462236170"
     ],
-    "mongooseConnectionString": "mongodb+srv://CodeXpvt:GodCodeX@codexpvt.izfnc7r.mongodb.net/?retryWrites=true&w=majority&appName=CodeXpvt",
+    "mongooseConnectionString": "mongodb+srv://trendhiveig:Ofzpz5PWcW3TllTx@cluster0.7qzgs2x.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "colorthemecode": "#87CEEB",
     "randomMessages_Cooldown": [
         "Wait Dont Spam...",
@@ -18,6 +18,6 @@
         "Hold ur horses....",
         "Are you whore"
     ],
-    "NOTE:": "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS",
+    "NOTE:": "rep 4 picperms",
     "topgg": ""
 }
